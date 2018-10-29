@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+ }
+
+.conteudo{
+	width: 100vw;
+    height: 100vh;
+    background: #6C7A89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+a{
+	text-decoration: none;
+}
+
+.button {
+    width: 200px;
+    height: 55px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.avatar{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-right: 10px;
+}
+
+.dados{
+	width: 400px;
+	height: 100px;
+	background: #fff;
+	padding: 10px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 10px;
+}
